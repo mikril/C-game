@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\TestMuzikSord\\TestMuzikSord.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\music sword\\music sword.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\music sword\\music sword.csproj",
+        "projectName": "music sword",
+        "projectPath": "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\music sword\\music sword.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\TestMuzikSord\\TestMuzikSord.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\TestMuzikSord\\TestMuzikSord.csproj",
+        "projectName": "TestMuzikSord",
+        "projectPath": "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\TestMuzikSord\\TestMuzikSord.csproj",
+        "packagesPath": "C:\\Users\\костя\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\TestMuzikSord\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\костя\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\music sword\\music sword.csproj": {
+                "projectPath": "C:\\Users\\костя\\Desktop\\игра2\\игра\\music sword\\music sword\\music sword.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.7, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

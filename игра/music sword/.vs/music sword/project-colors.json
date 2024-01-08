@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0aaab3aa-6f03-4966-b6a6-ee873e3690b1": {
+      "ProjectGuid": "0aaab3aa-6f03-4966-b6a6-ee873e3690b1",
+      "DisplayName": "music sword",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "fb59573f-7898-4360-8d71-ee10e2e42e24": {
+      "ProjectGuid": "fb59573f-7898-4360-8d71-ee10e2e42e24",
+      "DisplayName": "NunitTestMuzikSword",
+      "ColorIndex": 1
+    },
+    "f8b491c5-50c2-411a-a798-c8e306c91195": {
+      "ProjectGuid": "f8b491c5-50c2-411a-a798-c8e306c91195",
+      "DisplayName": "TestMusicSword",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
